@@ -189,7 +189,7 @@ const MenuContent: FC<any> = ({ onKeyIconClick }) => {
       <div className="mx-4 my-5 pb-[env(safe-area-inset-bottom)] text-center text-gray-400 text-sm">
         由{' '}
         <a className="text-link-gray" href="https://chatbox1.xyz" target="_blank">
-          Chat Box
+          ChatBox
         </a>{' '}
         驱动
       </div>
