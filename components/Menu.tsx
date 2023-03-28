@@ -189,7 +189,7 @@ const MenuContent: FC<any> = ({ onKeyIconClick }) => {
       <div className="mx-4 my-5 pb-[env(safe-area-inset-bottom)] text-center text-gray-400 text-sm">
         由{' '}
         <a className="text-link-gray" href="https://github.com/xcatliu/chatgpt-next" target="_blank">
-          ChatGPT Next
+          Chat Box
         </a>{' '}
         驱动
       </div>
