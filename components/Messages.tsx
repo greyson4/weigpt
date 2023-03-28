@@ -13,7 +13,7 @@ const SYSTEM_MESSAGE = (
     请注意隐私风险，禁止发送违法内容
   </>
   <br />
-    需要独享API可以:<a href="https://www.lianmenghao.cn/zb_users/upload/2023/03/20230327141734167989785492356.jpg">联系我</a>
+    需要独享API可以联系QQ:80280763
   </>
 );
 const WELCOME_MESSAGE = '你好！有什么我可以帮助你的吗？';
